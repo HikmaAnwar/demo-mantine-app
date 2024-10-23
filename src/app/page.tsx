@@ -5,7 +5,7 @@ import { Button } from "@mantine/core";
 function Demo() {
   return (
     <Link href="/hello" passHref>
-      <Button component="a">Next link button</Button>
+      <Button component="a">Next link button1</Button>
     </Link>
   );
 }
